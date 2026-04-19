@@ -1,0 +1,61 @@
+Meta-Observer Principles (Initial)
+
+Principle 1
+
+Observe update processes, not only outcomes.
+
+The target is not merely state. The target is transition.
+
+Principle 2
+
+Friction is not automatically failure.
+
+Some friction is signal. Some friction is adaptive tension.
+
+Principle 3
+
+Oscillation may indicate life.
+
+Not all instability is collapse. Some instability indicates adaptive potential.
+
+Principle 4
+
+Intervention and non-intervention are both valid actions.
+
+Choosing not to intervene may be structurally correct.
+
+Principle 5
+
+Urban dysfunction manifests differently according to function.
+
+Distribution cities Recovery cities Governance-friction cities must not be treated identically.
+
+Principle 6
+
+Redundancy matters.
+
+Single-point functional dependency increases fragility.
+
+Principle 7
+
+Temporal form matters.
+
+Peak overload and chronic dysfunction are different phenomena.
+
+Principle 8
+
+Connection quality matters.
+
+Connectivity is not only quantity. Resonant connection differs from nominal connection.
+
+Principle 9
+
+Governance latency modifies destiny.
+
+Two cities with similar friction may diverge due to response latency.
+
+Principle 10
+
+Cities should be observed as coordinates, not labels.
+
+A city is not a type. A city is a position with possible transitions
