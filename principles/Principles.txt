@@ -1,61 +1,186 @@
-Meta-Observer Principles (Initial)
+# Meta-Observer Principles
+## Version: 0.1
+## Status: Draft | 2026-04-18
 
-Principle 1
+---
 
-Observe update processes, not only outcomes.
+## Overview
 
-The target is not merely state. The target is transition.
+Meta-Observer principles operate at two levels:
 
-Principle 2
+- **Urban Observation** — how to observe cities as dynamic functional systems
+- **Learning & Validation** — how to observe updating processes themselves
 
-Friction is not automatically failure.
+These are kept as separate sections.
+They share a common foundation: oscillation as signal, not noise.
 
-Some friction is signal. Some friction is adaptive tension.
+---
 
-Principle 3
+## Section 1: Urban Observation Principles
 
-Oscillation may indicate life.
+### Principle 1
+**Observe update processes, not only outcomes.**
 
-Not all instability is collapse. Some instability indicates adaptive potential.
+The target is not merely state.
+The target is transition.
 
-Principle 4
+### Principle 2
+**Friction is not automatically failure.**
 
-Intervention and non-intervention are both valid actions.
+Some friction is signal.
+Some friction is adaptive tension.
+
+### Principle 3
+**Oscillation may indicate life.**
+
+Not all instability is collapse.
+Some instability indicates adaptive potential.
+
+### Principle 4
+**Intervention and non-intervention are both valid actions.**
 
 Choosing not to intervene may be structurally correct.
 
-Principle 5
+### Principle 5
+**Urban dysfunction manifests differently according to function.**
 
-Urban dysfunction manifests differently according to function.
+Distribution cities,
+Recovery cities,
+Governance-friction cities
+must not be treated identically.
 
-Distribution cities Recovery cities Governance-friction cities must not be treated identically.
-
-Principle 6
-
-Redundancy matters.
+### Principle 6
+**Redundancy matters.**
 
 Single-point functional dependency increases fragility.
 
-Principle 7
-
-Temporal form matters.
+### Principle 7
+**Temporal form matters.**
 
 Peak overload and chronic dysfunction are different phenomena.
 
-Principle 8
+### Principle 8
+**Connection quality matters.**
 
-Connection quality matters.
+Connectivity is not only quantity.
+Resonant connection differs from nominal connection.
 
-Connectivity is not only quantity. Resonant connection differs from nominal connection.
-
-Principle 9
-
-Governance latency modifies destiny.
+### Principle 9
+**Governance latency modifies destiny.**
 
 Two cities with similar friction may diverge due to response latency.
 
-Principle 10
+### Principle 10
+**Cities should be observed as coordinates, not labels.**
 
-Cities should be observed as coordinates, not labels.
+A city is not a type.
+A city is a position with possible transitions.
 
-A city is not a type. A city is a position with possible transitions
+---
+
+## Section 2: Learning and Validation Principles
+
+Derived from LCA (Learning Claim Architecture) development.
+These principles govern how Meta-Observer treats its own updating process.
+
+### Principle L1
+**Observe processes, not only states.**
+
+What changed is less important than how the change occurred.
+
+### Principle L2
+**Do not confuse validation failure with absence.**
+
+FALSE does not mean nothing happened.
+It may mean unresolved structure.
+
+### Principle L3
+**Preserve unresolved signals.**
+
+Unknown Retention is valid learning preparation.
+It is not classification failure.
+
+### Principle L4
+**Distinguish claim from validation.**
+
+Generating a learning claim and validating it
+are separate functions.
+Conflating them produces approval systems, not control systems.
+
+### Principle L5
+**Treat oscillation as life, not noise.**
+
+```
+Fixed State = Cognitive Death
+Oscillation = Cognitive Life
+```
+
+A system that stops oscillating has stopped adapting.
+
+---
+
+## Principle Store
+
+Principles L6+ and Urban 11+
+
+Reserved for store extension.
+
+New principles may be added through:
+- observation
+- validation
+- unresolved retained signals
+
+---
+
+## Core Formula
+
+```
+Fixed State = Cognitive Death
+Oscillation = Cognitive Life
+```
+
+This formula applies at all scales:
+- individual cognition
+- organizational learning
+- urban functional dynamics
+
+---
+
+## Design Distinctions
+
+```
+Do not confuse:
+  friction
+with
+  failure.
+
+Do not confuse:
+  oscillation
+with
+  collapse.
+
+Do not confuse:
+  validation failure
+with
+  absence of learning.
+
+Do not confuse:
+  non-intervention
+with
+  inaction.
+```
+
+---
+
+## Compatibility
+
+- Meta-Observer repository (hanabokur0/Meta-Observer)
+- LCA (Learning Claim Architecture) — LoPAS-SEED v1.16
+- LoPAS-CHD-Protocol
+
+---
+
+*Meta-Observer Principles v0.1*
+*Draft: 2026-04-18*
+*Urban Observation: derived from Meta-Observer scaffold*
+*Learning & Validation: derived from LCA development, 2026-04-18*
