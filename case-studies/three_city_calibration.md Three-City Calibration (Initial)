@@ -1,0 +1,75 @@
+Viçosa
+
+Observed Function
+
+Primary: Living
+
+Secondary: Flow
+
+Coordinate Position: Adaptive Friction
+
+Governance Latency: Low
+
+LPTM:
+
+stable_or_noise
+L1
+pst 0.628
+
+Intervention: Observe only.
+
+Expected Transition: Elastic Flow
+
+Évora
+
+Observed Function
+
+Primary: Governance (under stress)
+
+Secondary: Flow
+
+Coordinate Position: Structural Stress
+
+Governance Latency: Very High
+
+LPTM:
+
+phase_rising
+L2
+pst 0.661
+
+Intervention: Observe / Hold
+
+Expected Transition: Elastic Flow or Chronic Lock-in
+
+Kalamata
+
+Observed Function
+
+Primary: Recovery (under stress)
+
+Secondary: Flow
+
+Coordinate Position: Critical
+
+Governance Latency: Medium-High
+
+LPTM:
+
+phase_rising
+L2
+pst 0.679
+
+Intervention: Light Observation Memo Allowed
+
+Expected Transition: Recovery Repair or Collapse Spiral
+
+Initial Differential Observation
+
+3-city differential confirmed.
+
+Urban function ↔ phase relation observed.
+
+Status: Initial calibration only.
+
+Not final classification.
