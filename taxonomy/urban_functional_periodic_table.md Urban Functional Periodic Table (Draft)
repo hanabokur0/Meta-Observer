@@ -1,61 +1,106 @@
-Coordinate Axes
-Horizontal Axis
+# Urban Functional Periodic Table
+## Status: Draft
+## Version: 0.1
 
-Functional Plasticity
+Part of Meta-Observer
+hanabokur0/Meta-Observer
 
-Definition: Capacity for substitution, redistribution, or adaptive reconfiguration.
+---
+
+## Coordinate Axes
+
+### Horizontal Axis
+**Functional Plasticity**
+
+Definition:
+Capacity for substitution, redistribution, or adaptive reconfiguration.
 
 Related:
+- Substitution Radius
+- CDI (Redundancy)
 
-Substitution Radius
-CDI (Redundancy)
-Vertical Axis
+---
 
-Temporal Dynamic
+### Vertical Axis
+**Temporal Dynamic**
 
-Definition: Whether dysfunction appears as episodic peak concentration or chronic structural persistence.
+Definition:
+Whether dysfunction appears as episodic peak concentration
+or chronic structural persistence.
 
 Related:
+- Temporal Resolution
+- LPTM phase behavior
 
-Temporal Resolution
-LPTM phase behavior
-Third Axis (Draft Modifier)
+---
 
-Governance Response Latency
+### Third Axis (Draft Modifier)
+**Governance Response Latency**
 
-Definition: Response delay between observable friction and systemic reaction.
+Definition:
+Response delay between observable friction and systemic reaction.
 
-Status: Draft modifier. Calculation not finalized.
+Status:
+Draft modifier.
+Calculation not finalized.
 
-Functional Regions
-Adaptive Friction
+---
 
+## Functional Regions
+
+### Adaptive Friction
 High Plasticity × Peak/Episodic
 
-Typical: Optimization target.
+Typical:
+Optimization target.
 
-Elastic Flow
+---
 
+### Elastic Flow
 High Plasticity × Low Chronic friction
 
-Typical: Desired resilient condition.
+Typical:
+Desired resilient condition.
 
-Structural Stress
+---
 
+### Structural Stress
 High Plasticity (potential) × High Chronic
 
-Typical: Structurally repairable but obstructed.
+Typical:
+Structurally repairable but obstructed.
 
-Critical
+---
 
+### Critical
 Low Plasticity × High Chronic
 
-Typical: High fragility. Potential collapse risk.
+Typical:
+High fragility.
+Potential collapse risk.
 
-Functional Transitions (Draft)
+---
 
-Adaptive Friction → Elastic Flow
+## Functional Transitions (Draft)
 
-Structural Stress → Elastic Flow or → Chronic Lock-in
+```
+Adaptive Friction
+→ Elastic Flow
 
-Critical → Recovery Repair or → Collapse Spiral
+Structural Stress
+→ Elastic Flow
+or
+→ Chronic Lock-in
+
+Critical
+→ Recovery Repair
+or
+→ Collapse Spiral
+```
+
+---
+
+*Urban Functional Periodic Table v0.1*
+*Draft: 2026-04-18*
+*Part of: Meta-Observer*
+*Compatible with: LoPAS-SEED v1.15+, LPTM phase behavior*
