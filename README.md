@@ -5,7 +5,7 @@
 Meta-Observer is a companion repository to LoPAS-LCA focused on:
 
 - Observational perspective  
-- Urban functional classification  
+- Urban functional classification 
 - Phase-aware intervention logic  
 
 ---
